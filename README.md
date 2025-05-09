@@ -1,3 +1,4 @@
+https://drive.google.com/file/d/1YZpzShVDtbAaMtblT2ko6FiuR5qndcor/view?usp=sharing
 # 📚 Sistema de Gestión de Librería
 
 Este proyecto representa un **Modelo Entidad-Relación (MER)** para la gestión de una librería, incluyendo el manejo de clientes, pedidos, libros, editoriales e inventario.
